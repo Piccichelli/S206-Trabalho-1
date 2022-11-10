@@ -4,4 +4,4 @@ Para rodar os testes é necessário colocar o email e a senha do portal do moodl
 
 Para rodar os testes é necessário digitar o comando:
 
-""aaa""
+##./node_modules/.bin/cypress run --spec 'cypress/e2e/**/'
